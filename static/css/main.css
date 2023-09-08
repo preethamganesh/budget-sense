@@ -34,11 +34,18 @@ body {
 .index-product-name {
   color: #03045e;
   text-align: center;
-  font-size: 60px;
 }
 
 .index-product-tagline {
   color: #00b4d8;
   text-align: center;
+}
+
+/*Font sizes*/
+.font-size-60 {
+  font-size: 60px;
+}
+
+.font-size-30 {
   font-size: 30px;
 }
